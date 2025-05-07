@@ -1,5 +1,4 @@
 # for-mila
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -55,8 +54,8 @@
 </head>
 <body>
 
-  <h1>MILAAAAAA😡😡😡</h1>
-  <p style="font-size: 22px;">serahkan papmu sekarang,sebanyak mungkin😝</p>
+  <h1>WOYY😡😡😡</h1>
+  <p style="font-size: 22px;">serahkan papmu sekarang jg,sebanyak mungkin😝</p>
   <p class="emoji">🖕🏻💋🖕🏻</p>
   <p style="font-size: 20px;">Jangan senyum-senyum, keliatan bgt bapernya~</p>
 
